@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wanderson de Sousa Chaves</h1>
 <h3 align="center">I am a FullStack Developer</h3>
 
-- 🔭 I’m currently working on **NSH Technologies**
+- 🔭 I’m currently working on **Hero99**
 
-- 🌱 I’m currently learning **Javascript, React, Node**
+- 🌱 I’m currently developing **Javascript, React, Node**
 
 - 👯 I’m looking to collaborate on **CHAV3X**
 
-- 🤝 I’m looking for help with **Villeco**
+- 🤝 I’m looking for help with **CHAV3X**
 
 - 💬 Ask me about **React, Node**
 
