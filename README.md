@@ -1,22 +1,70 @@
-<h1 align="center">Hi 👋, I'm Wanderson de Sousa Chaves</h1>
-<h3 align="center">I am a FullStack Developer</h3>
+# Contact
 
-- 🔭 I’m currently working on **Hero99**
+- Email: wandersonchavesbr14@gmail.com
+- LinkedIn: [www.linkedin.com/in/wandersonchaves](www.linkedin.com/in/wandersonchaves)
 
-- 🌱 I’m currently developing **Javascript, React, Node**
+## Top Skills
+- JavaScript
+- HTML
+- SQL
 
-- 👯 I’m looking to collaborate on **CHAV3X**
+## Languages
+- English (Limited Working)
+- Portuguese (Native or Bilingual)
 
-- 🤝 I’m looking for help with **CHAV3X**
+## Certifications
+- Careerflow Linkedin Profile Completion
 
-- 💬 Ask me about **React, Node**
+# Wanderson Chaves
+Full Stack Developer | Passionate about Creating Engaging Web Experiences | Seeking New Opportunities
+Teresina, Piauí, Brazil
 
-- 📫 How to reach me **wandersonchavesbr14@gmail.com**
+## Summary
+I'm a Full Stack Developer passionate about creating innovative web solutions. With 3 years of experience in the JavaScript ecosystem,
+I have solid knowledge of Node.js for backend development and React for frontend development. In addition, I have skills in other tools and frameworks that complement my skills. I am always up
+to date with the latest technological trends, constantly seeking to improve my knowledge and apply it to create efficient and scalable systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Hero99
+Full Stack Developer
+September 2022 - May 2023 (9 months)
+Curitiba, Paraná, Brazil
 
+- Leadership in the successful development and implementation of chatbot solutions using GCP and Dialogflow, resulting in increased user engagement and customer satisfaction.
+- Significant contribution to the design and implementation of efficient and scalable systems using Nest, Next and MongoDB, ensuring reliable chatbot functionality.
+
+### NSH Technologies
+Frontend Developer
+December 2021 - September 2022 (10 months)
+São Paulo, Brazil
+
+- Active participation in the development of e-commerce platforms using OCC (Oracle Commerce Cloud), resulting in better user experience and increased online sales.
+- Using HTML, CSS and JavaScript to create attractive and functional interfaces, promoting greater customer engagement and improved conversion rates.
+
+### Deep Legal Analytics
+Full Stack Developer
+January 2021 - December 2021 (1 year)
+São Paulo, Brazil
+
+- Development of innovative legal solutions using Node, React, Elastic Search and Redis, allowing efficient analysis and classification of legal documents.
+- Successful implementation of machine learning models for processing legal data, resulting in greater accuracy and efficiency in retrieving legal information.
+
+### Planos Assessoria & Planejamento Tributário
+Full Stack Developer
+June 2020 - December 2020 (7 months)
+Água Boa, Mato Grosso, Brazil
+
+- Creation of customized accounting solutions using PHP, Node, VueJs and PostgreSQL, meeting the specific needs of customers and optimizing financial management processes.
+- Development of comprehensive systems that streamlined accounting operations, resulting in greater efficiency and accuracy in financial reporting.
+
+## Education
+
+- Rocketseat
+  - Master of Technology - MTech, General Studies · (June 2022 - June 2023)
+
+- Universidade Paulista
+  - Analysis and systems development, General Studies · (January 2017 - January 2019)
+
+- Pronatec
+  - Computer Technician, General Studies · (January 2015 - January 2017)
