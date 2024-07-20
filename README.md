@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi I'm Wanderson Chaves
 ## 🙍 About me
 
-Hello, I'm Wanderson Chaves. I'm full-stach developer from Brazil. I enjoy building sites and apps. My focus is React (Next.js).
+Hello, I'm Wanderson Chaves. I'm full-stack developer from Brazil. I enjoy building sites and apps. My focus is React (Next.js).
 
 I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 
