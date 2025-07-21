@@ -60,7 +60,7 @@ I love working on things like:
 ---
 
 ### 📌 Featured Projects
-Check out my [Portfolio](https://wandersonchaves.dev) to see:
+Check out my [Portfolio](https://wandersonchaves.vercel.app/about) to see:
 
 - **BOLEPIX**: Pix billing system with Celcoin API, PDF generation and webhook handling  
 - **WhatsApp Automation**: Sector-based triage and priority queue for clinics  
