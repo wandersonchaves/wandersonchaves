@@ -19,7 +19,7 @@ I love working on things like:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:wandersonchavesbr14@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonchaves/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://wandersonchaves.dev) <!-- substitua com seu link real -->
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://wandersonchaves.vercel.app/about)
 
 ---
 
