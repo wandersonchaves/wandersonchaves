@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Wanderson Chaves
 
-💼 **Senior Software Engineer | Backend & Clean Architecture Specialist**  
-🌎 Remote-first | Available for international freelance/contract  
-📍 Teresina, Brazil
+🚀 Senior Software Engineer  
+🧠 Focused on backend architecture, APIs, and automation  
+🌎 Remote-first | Available for international contracts  
+⚙️ NestJS · Prisma · PostgreSQL · AWS · Clean Architecture
 
 🧠 **Tech Stack:** NestJS · Prisma · PostgreSQL · TypeScript · AWS · Docker · RabbitMQ · GraphQL
 
