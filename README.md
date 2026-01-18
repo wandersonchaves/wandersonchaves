@@ -37,8 +37,6 @@ I’m currently open to **global remote opportunities** as:
 
 If your team builds **scalable, high-reliability systems**, I’d love to connect.
 
-📩 **Contact:** wandersonchavesbr14@gmail.com | [LinkedIn](https://www.linkedin.com/in/wandersonchaves/)
-
 ---
 
 ## Featured Projects
@@ -91,7 +89,3 @@ Other: Prisma • Node.js • Microservices • Event-Driven Systems • Docker 
 ---
 
 ### Let’s connect 🤝
-If you’d like to discuss backend architecture, distributed systems, or remote opportunities:
-
-📩 YOUR_EMAIL  
-🔗 [LinkedIn](https://www.linkedin.com/in/wandersonchaves/)
