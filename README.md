@@ -59,8 +59,6 @@ A reference repo with patterns for queues, async workflows, retries, idempotency
 **Tech:** NestJS, RabbitMQ/SQS, Redis, Docker  
 🔗 Repo: [link](https://github.com/wandersonchaves/next-learn)
 
-> *(Replace these projects with your actual repos. If you want, I can adapt the copy to match your real repositories.)*
-
 ---
 
 ## How I work
