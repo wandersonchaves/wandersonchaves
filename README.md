@@ -12,7 +12,7 @@ Building scalable backend platforms, distributed systems and cloud-native applic
 
 [LinkedIn](https://linkedin.com/in/wandersonchaves) •
 [Portfolio](https://github.com/wandersonchaves/) •
-[Email](wandersonchavesbr14@gmail.com)
+[Email](mailto:wandersonchavesbr14@gmail.com)
 
 </div>
 
