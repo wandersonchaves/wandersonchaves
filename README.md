@@ -11,8 +11,8 @@ Building scalable backend platforms, distributed systems and cloud-native applic
 🌎 Open to Global Remote Opportunities
 
 [LinkedIn](https://linkedin.com/in/wandersonchaves) •
-Portfolio •
-Email
+[Portfolio](https://github.com/wandersonchaves/) •
+[Email](wandersonchavesbr14@gmail.com)
 
 </div>
 
