@@ -2,219 +2,83 @@
 
 # Hi, I'm Wanderson Chaves 👋
 
-### Senior Backend Engineer
+### Senior Backend Engineer | Node.js • TypeScript • Python • AWS
+**Distributed Systems • Microservices • Event-Driven Architecture**
 
-Building scalable backend platforms, distributed systems and cloud-native applications.
+Building resilient backend architectures, high-throughput APIs, and production-grade cloud systems.
 
-**Node.js • TypeScript • Java • Python • AWS • Microservices**
+🌎 **Open to Global Remote & Full-time Contract Opportunities**
 
-🌎 Open to Global Remote Opportunities
-
-[LinkedIn](https://linkedin.com/in/wandersonchaves) •
-[Portfolio](https://github.com/wandersonchaves/) •
-[Email](mailto:wandersonchavesbr14@gmail.com)
+[LinkedIn](https://linkedin.com/in/wandersonchaves) • [Email](mailto:wandersonchavesbr14@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+## 🛠️ About Me
 
-I'm a **Senior Backend Engineer** focused on designing, modernizing and maintaining scalable backend systems for production environments.
+I am a **Senior Backend Engineer** with over 7 years of experience building and modernizing distributed backend systems for mission-critical enterprise environments, payment platforms, and multi-tenant architectures.
 
-Throughout my career I've worked on **mission-critical Oil & Gas applications, payment platforms, enterprise software and SaaS products**, contributing to backend modernization, distributed architectures, cloud adoption and high-impact production environments.
-
-I enjoy solving complex engineering challenges through pragmatic architecture, maintainable software design and long-term thinking.
-
-My work combines hands-on software engineering with technical leadership, participating in architecture decisions, application modernization, code reviews and production deployments.
-
-Outside my professional work, I also lead technology initiatives for my local community, designing software solutions that improve operational efficiency and digital transformation.
+- **Core Engineering:** Designing modular monoliths and microservices adhering to Clean Architecture, Domain-Driven Design (DDD), and SOLID principles.
+- **Distributed Systems:** Handling asynchronous workloads and event-driven architectures with Amazon SQS and RabbitMQ, focusing on idempotency, fault isolation, and resilient background queues.
+- **Enterprise Modernization & Cloud:** Upgrading legacy ecosystems (Python/Django runtimes) and operating containerized microservices in cloud environments (AWS ECS/ECR, S3, Docker).
 
 ---
 
-# Core Expertise
+## ⚡ Technical Highlights in Production
 
-### Backend Engineering
-
-- Node.js
-- TypeScript
-- Java
-- Python
-- NestJS
-- Spring Boot
-- Django
-
-### Software Architecture
-
-- Distributed Systems
-- Microservices
-- Event-Driven Architecture
-- Clean Architecture
-- Domain-Driven Design
-- System Design
-- REST APIs
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- ECS
-- CI/CD
-- Jenkins
-
-### Databases & Messaging
-
-- PostgreSQL
-- MongoDB
-- Redis
-- RabbitMQ
-- Amazon SQS
+- **Legacy Modernization:** Upgraded 3 out of 4 critical legacy enterprise applications to Python 3.12 and Django 4.2 for enterprise client projects (Petrobras), eliminating deprecated dependencies and improving maintainability.
+- **Pipeline Optimization:** Reduced Jenkins CI/CD deployment time by **55% (~22 to 10 minutes)** by offloading media assets and large binaries to Amazon S3.
+- **Distributed Workloads:** Implemented application-side components for migrating asynchronous workloads from RabbitMQ to Amazon SQS with resilient Dead Letter Queue (DLQ) policies.
+- **Failure Isolation (Java/Spring Boot):** Diagnosed and fixed pagination/infinite-loop bottlenecks in an ingestion engine by implementing per-entity fault isolation, enabling continuous processing across 1,000+ well telemetry records.
+- **Financial Integrations:** Engineered transactional payment microservices with NestJS, Prisma, and PostgreSQL, releasing Pix and BolePix integration flows with Redis-guarded idempotency pipelines.
 
 ---
 
-# Engineering Highlights
+## 💻 Tech Stack & Architecture
 
-✔ Led the modernization of **three production applications**
-
-✔ Reduced deployment time by **approximately 55%**
-
-✔ Designed and delivered **Pix and BolePix payment solutions**
-
-✔ Built backend services for **mission-critical Oil & Gas systems**
-
-✔ Developed reusable backend architectures based on **DDD** and **Clean Architecture**
-
-✔ Experience working across development, staging and production environments
+| Domain | Technologies & Patterns |
+| :--- | :--- |
+| **Primary Backend** | TypeScript, Node.js, NestJS, Prisma ORM, RESTful APIs, GraphQL |
+| **Secondary Backend** | Python, Django, Celery |
+| **Databases & Cache** | PostgreSQL, Redis, MongoDB |
+| **Messaging & Queues** | Amazon SQS, RabbitMQ, BullMQ, Event-Driven Processing |
+| **Cloud & DevOps** | AWS (ECS, ECR, S3, RDS, CloudWatch), Docker, CI/CD (Jenkins, GitHub Actions) |
+| **Architecture** | Distributed Systems, Clean Architecture, DDD, SOLID, Microservices, Multi-tenancy |
+| **Complementary** | Java, Spring Boot, Next.js, React |
 
 ---
 
-# Featured Projects
+## 🚀 Featured Architectural Projects
 
-## 🚀 Nexus Core
+### 🏢 Nexus Core
+*Modular Enterprise Monorepo & Architecture Blueprint*
+- **Stack:** TypeScript, NestJS, PostgreSQL, Prisma, Redis, Docker
+- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), Multi-tenancy isolation.
+- **Capabilities:** Reusable modular architecture featuring Role-Based Access Control (RBAC), database connection management, and background worker queues with BullMQ.
 
-A reusable enterprise backend foundation designed for scalable applications.
-
-### Highlights
-
-- Modular Architecture
-- Clean Architecture
-- Domain-Driven Design
-- NestJS
-- Next.js
-- PostgreSQL
-- TypeScript
-- Authentication
-- Authorization
-- Shared Domain Modules
-
-Repository *(Private)*
+### 🏛️ Filadélfia Hub
+*Multi-Tenant Organization Management Platform*
+- **Stack:** NestJS, TypeScript, PostgreSQL, Next.js, Docker
+- **Architecture:** Multi-tenant domain isolation with Clean Architecture and DDD principles.
+- **Capabilities:** Centralized identity access, structured workflows, communication integrations, and reliable transactional persistence.
 
 ---
 
-## ⛪ Filadélfia Hub
+## 🎯 Target Roles
 
-A multi-tenant management platform built to support church administration and community operations.
-
-### Features
-
-- Member Management
-- WhatsApp Integration
-- Child Check-in / Check-out
-- Multi-tenancy
-- Role-Based Access Control
-- REST APIs
-
-### Technologies
-
-NestJS • Next.js • PostgreSQL • TypeScript
-
-Repository *(Private)*
+- **Senior Backend Engineer**
+- **Senior Software Engineer (Backend)**
+- **Distributed Systems Engineer**
+- **Cloud Backend Engineer**
 
 ---
 
-## 🧠 MentorX *(In Progress)*
+<div align="center">
 
-AI-powered learning platform focused on personalized learning experiences using modern LLM techniques.
+*"Great software isn't just code. It's architecture, reliability, and pragmatic engineering."*
 
-Current areas of study include:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wandersonchaves)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wandersonchavesbr14@gmail.com)
 
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Prompt Engineering
-- Vector Search
-
----
-
-## ⚡ Event-Driven Architecture Playground
-
-A laboratory repository dedicated to studying production-ready event-driven systems.
-
-Topics include:
-
-- RabbitMQ
-- Amazon SQS
-- Idempotency
-- Retry Strategies
-- Message Ordering
-- Event Processing
-- Distributed Workflows
-
----
-
-# Engineering Principles
-
-I believe good software is built through simple ideas consistently applied.
-
-My engineering principles are:
-
-- Architecture First
-- Simplicity over Complexity
-- Clean Code
-- Long-Term Maintainability
-- Automation Whenever Possible
-- Measure Before Optimizing
-- Strong Ownership
-- Continuous Learning
-
----
-
-# Current Focus
-
-Currently exploring:
-
-- Large Language Models (LLMs)
-- AI Engineering
-- Agentic Workflows
-- Distributed Systems
-- Cloud Architecture
-- High-Performance APIs
-- Backend Scalability
-
----
-
-# Open To
-
-I'm currently interested in opportunities as:
-
-- Senior Backend Engineer
-- Senior Software Engineer (Backend)
-- Backend Architect
-- Software Architect
-- Platform Engineer
-- Cloud Backend Engineer
-- Distributed Systems Engineer
-- Staff Backend Engineer
-
----
-
-# Let's Connect
-
-If you're building scalable backend systems or looking for an experienced backend engineer, I'd be happy to connect.
-
-- LinkedIn
-- Email
-
----
-
-*"Great software isn't just code. It's architecture, reliability and long-term thinking."*
+</div>
