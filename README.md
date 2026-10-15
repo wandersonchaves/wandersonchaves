@@ -17,10 +17,10 @@ Building resilient backend architectures, high-throughput APIs, and production-g
 
 ## 🛠️ About Me
 
-I am a **Senior Backend Engineer** with over 7 years of experience building and modernizing distributed backend systems for mission-critical enterprise environments, payment platforms, and multi-tenant architectures.
+I am a **Senior Backend Engineer** with 5+ years of software development experience building and modernizing backend systems for mission-critical enterprise environments, payment platforms, and multi-tenant architectures.
 
 - **Core Engineering:** Designing modular monoliths and microservices adhering to Clean Architecture, Domain-Driven Design (DDD), and SOLID principles.
-- **Distributed Systems:** Handling asynchronous workloads and event-driven architectures with Amazon SQS and RabbitMQ, focusing on idempotency, fault isolation, and resilient background queues.
+- **Distributed Systems:** Handling asynchronous workloads and event-driven architectures with Amazon SQS, RabbitMQ and BullMQ, focusing on idempotency and reliable background processing.
 - **Enterprise Modernization & Cloud:** Upgrading legacy ecosystems (Python/Django runtimes) and operating containerized microservices in cloud environments (AWS ECS/ECR, S3, Docker).
 
 ---
@@ -29,9 +29,10 @@ I am a **Senior Backend Engineer** with over 7 years of experience building and 
 
 - **Legacy Modernization:** Upgraded 3 out of 4 critical legacy enterprise applications to Python 3.12 and Django 4.2 for enterprise client projects (Petrobras), eliminating deprecated dependencies and improving maintainability.
 - **Pipeline Optimization:** Reduced Jenkins CI/CD deployment time by **55% (~22 to 10 minutes)** by offloading media assets and large binaries to Amazon S3.
-- **Distributed Workloads:** Implemented application-side components for migrating asynchronous workloads from RabbitMQ to Amazon SQS with resilient Dead Letter Queue (DLQ) policies.
-- **Failure Isolation (Java/Spring Boot):** Diagnosed and fixed pagination/infinite-loop bottlenecks in an ingestion engine by implementing per-entity fault isolation, enabling continuous processing across 1,000+ well telemetry records.
-- **Financial Integrations:** Engineered transactional payment microservices with NestJS, Prisma, and PostgreSQL, releasing Pix and BolePix integration flows with Redis-guarded idempotency pipelines.
+- **Messaging Migration:** Contributed to the application-side migration of asynchronous messaging from RabbitMQ to Amazon SQS.
+- **Server-Side Pagination (Java/Spring Boot):** Implemented server-side pagination driven by user-supplied parameters, so the backend returns only the data the front end needs. This enabled optimized queries across 1,000+ wells.
+- **Clear Failure Reporting (Java/Spring Boot):** Built two features that show users clear error details for process failures that used to stop the flow silently.
+- **Financial Integrations:** Engineered transactional payment microservices with NestJS, Prisma, and PostgreSQL, releasing Pix and BolePix integration flows (Celcoin) with Redis-based webhook idempotency.
 
 ---
 
@@ -51,17 +52,16 @@ I am a **Senior Backend Engineer** with over 7 years of experience building and 
 
 ## 🚀 Featured Architectural Projects
 
-### 🏢 Nexus Core
-*Modular Enterprise Monorepo & Architecture Blueprint*
-- **Stack:** TypeScript, NestJS, PostgreSQL, Prisma, Redis, Docker
-- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), Multi-tenancy isolation.
-- **Capabilities:** Reusable modular architecture featuring Role-Based Access Control (RBAC), database connection management, and background worker queues with BullMQ.
+### 💳 Power Camp Registrations
+*Event sign-up and payments platform, in production for a church youth camp* · [repository](https://github.com/wandersonchaves/next-power)
+- **Stack:** Next.js 15, TypeScript, Prisma, PostgreSQL, Efí Pix API
+- **Payments:** Immediate Pix charges and Pix Automático recurring installments.
+- **Reliability:** Webhook event processing and reconciliation of pending recurring charges.
 
-### 🏛️ Filadélfia Hub
-*Multi-Tenant Organization Management Platform*
-- **Stack:** NestJS, TypeScript, PostgreSQL, Next.js, Docker
-- **Architecture:** Multi-tenant domain isolation with Clean Architecture and DDD principles.
-- **Capabilities:** Centralized identity access, structured workflows, communication integrations, and reliable transactional persistence.
+### 🧱 Enterprise SaaS Starter Kit
+*Monorepo boilerplate for B2B SaaS* · [repository](https://github.com/wandersonchaves/enterprise-saas-starter-kit)
+- **Stack:** TypeScript, NestJS (API gateway), Next.js, Prisma, PostgreSQL, BullMQ, Redis, OpenTelemetry, Turborepo
+- **Capabilities:** Multi-tenancy with Clerk organizations, background jobs, distributed tracing, Docker-based local setup.
 
 ---
 
