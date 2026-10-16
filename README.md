@@ -53,7 +53,7 @@ I am a **Senior Backend Engineer** with 5+ years of software development experie
 ## 🚀 Featured Architectural Projects
 
 ### 💳 Power Camp Registrations
-*Event sign-up and payments platform, in production for a church youth camp* · [repository](https://github.com/wandersonchaves/next-power)
+*Event sign-up and payments platform, in production for a church youth camp* · [repository](https://github.com/wandersonchaves/power-camp-registrations)
 - **Stack:** Next.js 15, TypeScript, Prisma, PostgreSQL, Efí Pix API
 - **Payments:** Immediate Pix charges and Pix Automático recurring installments.
 - **Reliability:** Webhook event processing and reconciliation of pending recurring charges.
