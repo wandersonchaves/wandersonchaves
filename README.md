@@ -1,84 +1,43 @@
-<div align="center">
+# Wanderson Chaves
 
-# Hi, I'm Wanderson Chaves 👋
+**Backend Engineer** · Node.js · TypeScript · Python · AWS · Payments (Pix)
 
-### Senior Backend Engineer | Node.js • TypeScript • Python • AWS
-**Distributed Systems • Microservices • Event-Driven Architecture**
+Teresina, Brazil. Open to on-site or hybrid roles (Curitiba, Brasília, Belo Horizonte) and to relocation. Remote roles also welcome. Brazilian citizen; international roles would need visa sponsorship.
 
-Building resilient backend architectures, high-throughput APIs, and production-grade cloud systems.
+[LinkedIn](https://linkedin.com/in/wandersonchaves) · [Email](mailto:wandersonchavesbr14@gmail.com)
 
-🌎 **Open to Global Remote & Full-time Contract Opportunities**
+## About
 
-[LinkedIn](https://linkedin.com/in/wandersonchaves) • [Email](mailto:wandersonchavesbr14@gmail.com)
+Backend engineer with 5+ years building and maintaining production services in TypeScript/Node.js (NestJS) and Python/Django: payment APIs, legacy modernization and AWS deployments.
 
-</div>
+## Work highlights
 
----
+- **Legacy modernization (consultancy, large energy-sector client, 2023 to 2026):** upgraded 3 of 4 legacy Python/Django applications to Python 3.12 and Django 4.2.
+- **Deploy time:** cut a Jenkins deploy from about 22 to about 10 minutes (~55%) by moving large media files to Amazon S3.
+- **Messaging:** moved the queue that runs well calculations from RabbitMQ to Amazon SQS.
+- **Pagination (Java/Spring Boot):** added server-side pagination driven by user parameters, enabling optimized queries across 1,000+ wells.
+- **Payments (General Shopping):** Pix, BolePix and boleto payment microservices with NestJS, Prisma and PostgreSQL, using Celcoin APIs. Automated split payments, and webhook ingestion with Redis idempotency guards so retried confirmations are not processed twice.
+- **Chatbots (Hero99):** Node.js and MongoDB backend for chatbots built on Google Dialogflow, with React Flow and Cloud Functions on GCP.
 
-## 🛠️ About Me
+## Projects
 
-I am a **Senior Backend Engineer** with 5+ years of software development experience building and modernizing backend systems for mission-critical enterprise environments, payment platforms, and multi-tenant architectures.
+| Project | What it shows |
+| --- | --- |
+| [power-camp-registrations](https://github.com/wandersonchaves/power-camp-registrations) | Event sign-up and payments, in production since Feb 2026: Efí Pix and Pix Automático over mTLS, webhooks stored before processing, reconciliation jobs, an installments ledger. 102 confirmed participants and R$ 6.5k in Pix as of Oct 2026. Next.js, Prisma, PostgreSQL, Jest, Playwright. |
+| [auth-edge](https://github.com/wandersonchaves/auth-edge) | Serverless authentication on AWS (personal project): Cognito, Lambda authorizer with JWKS caching and group-based access, API Gateway, DynamoDB audit log, Terraform. Tested with Vitest. Not currently deployed. |
+| [enterprise-saas-starter-kit](https://github.com/wandersonchaves/enterprise-saas-starter-kit) | A multi-tenant SaaS template (NestJS, Next.js, Prisma, BullMQ, Clerk). The README lists what is implemented and what is only scaffolding. |
 
-- **Core Engineering:** Designing modular monoliths and microservices adhering to Clean Architecture, Domain-Driven Design (DDD), and SOLID principles.
-- **Distributed Systems:** Handling asynchronous workloads and event-driven architectures with Amazon SQS, RabbitMQ and BullMQ, focusing on idempotency and reliable background processing.
-- **Enterprise Modernization & Cloud:** Upgrading legacy ecosystems (Python/Django runtimes) and operating containerized microservices in cloud environments (AWS ECS/ECR, S3, Docker).
+## Stack
 
----
+| | |
+| --- | --- |
+| **Backend** | TypeScript, Node.js, NestJS, Python, Django, Celery, REST, GraphQL, Java/Spring Boot (production fixes) |
+| **Data** | PostgreSQL, Redis, MongoDB, Prisma |
+| **Messaging** | Amazon SQS, RabbitMQ, BullMQ |
+| **Cloud and CI/CD** | AWS (ECS, ECR, S3, SQS, RDS, CloudWatch), Docker, Jenkins, GitHub Actions |
+| **Personal projects only** | Terraform, Lambda, API Gateway, Cognito, DynamoDB |
+| **Practices** | Clean Architecture and SOLID where they pay off, code review, production troubleshooting |
 
-## ⚡ Technical Highlights in Production
+## Languages
 
-- **Legacy Modernization:** Upgraded 3 out of 4 critical legacy enterprise applications to Python 3.12 and Django 4.2 for enterprise client projects (Petrobras), eliminating deprecated dependencies and improving maintainability.
-- **Pipeline Optimization:** Reduced Jenkins CI/CD deployment time by **55% (~22 to 10 minutes)** by offloading media assets and large binaries to Amazon S3.
-- **Messaging Migration:** Contributed to the application-side migration of asynchronous messaging from RabbitMQ to Amazon SQS.
-- **Server-Side Pagination (Java/Spring Boot):** Implemented server-side pagination driven by user-supplied parameters, so the backend returns only the data the front end needs. This enabled optimized queries across 1,000+ wells.
-- **Clear Failure Reporting (Java/Spring Boot):** Built two features that show users clear error details for process failures that used to stop the flow silently.
-- **Financial Integrations:** Engineered transactional payment microservices with NestJS, Prisma, and PostgreSQL, releasing Pix and BolePix integration flows (Celcoin) with Redis-based webhook idempotency.
-
----
-
-## 💻 Tech Stack & Architecture
-
-| Domain | Technologies & Patterns |
-| :--- | :--- |
-| **Primary Backend** | TypeScript, Node.js, NestJS, Prisma ORM, RESTful APIs, GraphQL |
-| **Secondary Backend** | Python, Django, Celery |
-| **Databases & Cache** | PostgreSQL, Redis, MongoDB |
-| **Messaging & Queues** | Amazon SQS, RabbitMQ, BullMQ, Event-Driven Processing |
-| **Cloud & DevOps** | AWS (ECS, ECR, S3, RDS, CloudWatch), Docker, CI/CD (Jenkins, GitHub Actions) |
-| **Architecture** | Distributed Systems, Clean Architecture, DDD, SOLID, Microservices, Multi-tenancy |
-| **Complementary** | Java, Spring Boot, Next.js, React |
-
----
-
-## 🚀 Featured Architectural Projects
-
-### 💳 Power Camp Registrations
-*Event sign-up and payments platform, in production for a church youth camp* · [repository](https://github.com/wandersonchaves/power-camp-registrations)
-- **Stack:** Next.js 15, TypeScript, Prisma, PostgreSQL, Efí Pix API
-- **Payments:** Immediate Pix charges and Pix Automático recurring installments.
-- **Reliability:** Webhook event processing and reconciliation of pending recurring charges.
-
-### 🧱 Enterprise SaaS Starter Kit
-*Monorepo boilerplate for B2B SaaS* · [repository](https://github.com/wandersonchaves/enterprise-saas-starter-kit)
-- **Stack:** TypeScript, NestJS (API gateway), Next.js, Prisma, PostgreSQL, BullMQ, Redis, OpenTelemetry, Turborepo
-- **Capabilities:** Multi-tenancy with Clerk organizations, background jobs, distributed tracing, Docker-based local setup.
-
----
-
-## 🎯 Target Roles
-
-- **Senior Backend Engineer**
-- **Senior Software Engineer (Backend)**
-- **Distributed Systems Engineer**
-- **Cloud Backend Engineer**
-
----
-
-<div align="center">
-
-*"Great software isn't just code. It's architecture, reliability, and pragmatic engineering."*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wandersonchaves)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wandersonchavesbr14@gmail.com)
-
-</div>
+Portuguese (native). English: strong technical reading and writing, speaking in progress.
